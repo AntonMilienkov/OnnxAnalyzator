@@ -1,0 +1,77 @@
+{
+  "node_count_a": 16,
+  "node_count_b": 16,
+  "max_depth_a": 7,
+  "max_depth_b": 7,
+  "has_cycle_a": false,
+  "has_cycle_b": false,
+  "op_histogram_changed": false,
+  "only_in_a_count": 0,
+  "only_in_b_count": 0,
+  "common_node_count": 16,
+  "fully_equal_node_count": 16,
+  "changed_node_count": 0,
+  "op_type_changed_count": 0,
+  "io_changed_count": 0,
+  "topology_changed_count": 0
+}
+
+===========================================================================
+
+{
+  "node_count_a": 16,
+  "node_count_b": 16,
+  "max_depth_a": 7,
+  "max_depth_b": 7,
+  "has_cycle_a": false,
+  "has_cycle_b": false,
+  "op_histogram_changed": false,
+  "only_in_a_count": 0,
+  "only_in_b_count": 0,
+  "common_node_count": 16,
+  "fully_equal_node_count": 16,
+  "changed_node_count": 0,
+  "op_type_changed_count": 0,
+  "io_changed_count": 0,
+  "topology_changed_count": 0
+}
+
+===========================================================================
+
+{
+  "node_count_a": 16,
+  "node_count_b": 18,
+  "max_depth_a": 7,
+  "max_depth_b": 9,
+  "has_cycle_a": false,
+  "has_cycle_b": false,
+  "op_histogram_changed": true,
+  "only_in_a_count": 0,
+  "only_in_b_count": 2,
+  "common_node_count": 16,
+  "fully_equal_node_count": 15,
+  "changed_node_count": 1,
+  "op_type_changed_count": 0,
+  "io_changed_count": 1,
+  "topology_changed_count": 1
+}
+
+===========================================================================
+
+{
+  "node_count_a": 16,
+  "node_count_b": 23,
+  "max_depth_a": 7,
+  "max_depth_b": 12,
+  "has_cycle_a": false,
+  "has_cycle_b": false,
+  "op_histogram_changed": true,
+  "only_in_a_count": 3,
+  "only_in_b_count": 10,
+  "common_node_count": 13,
+  "fully_equal_node_count": 5,
+  "changed_node_count": 8,
+  "op_type_changed_count": 0,
+  "io_changed_count": 4,
+  "topology_changed_count": 6
+}
